@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Mark
+
+I am a starting out full-stack developer.
+
+🔭 I’m currently working on my portfolio. You can check it out here: https://github.com/MarkXtenda/personal_website
+
 
 <!--
 **MarkXtenda/MarkXtenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
