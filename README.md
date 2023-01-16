@@ -2,7 +2,7 @@
 
 I am a starting out full-stack developer.
 
-🔭 I’m currently working on my portfolio. You can check it out here: https://github.com/MarkXtenda/personal_website
+🔭 I’m currently working on my portfolio. You can check it out here: [https://github.com/MarkXtenda/personal_website](https://markxtenda.github.io/personal_website/)
 
 
 <!--
