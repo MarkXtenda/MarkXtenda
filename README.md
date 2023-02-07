@@ -8,7 +8,8 @@ Hi there! I'm a starting out full-stack software developer, driven by a passion 
 * React
 * SQL
 * Ruby on Rails
-
+## Portfolio
+🔭 I’m currently working on my portfolio projects. You can check it out here: [https://github.com/MarkXtenda/personal_website](https://markxtenda.github.io/personal_website/)
 ## Projects
 Here are a few of my most recent projects:
 
@@ -22,8 +23,6 @@ Project 2:
 
 ## Contact
 If you would like to collaborate or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections in the tech industry!
-
-🔭 I’m currently working on my portfolio projects. You can check it out here: [https://github.com/MarkXtenda/personal_website](https://markxtenda.github.io/personal_website/)
 
 
 <!--
