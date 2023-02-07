@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mark
 
-I am a starting out full-stack developer.
+Aspiring full-stack software developer. Recent online course graduate with a focus on HTML/CSS, Javascript, React, SQL, and Ruby on Rails. Determined to turn concepts into code and bring impactful solutions to life through hands-on projects. Continuously learning and seeking new opportunities to grow as a developer and bring innovative ideas to life..
 
 🔭 I’m currently working on my portfolio projects. You can check it out here: [https://github.com/MarkXtenda/personal_website](https://markxtenda.github.io/personal_website/)
 
