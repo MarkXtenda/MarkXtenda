@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mark
+# Hi 👋 I'm Mark
 
 Hi there! I'm a starting out full-stack software developer, driven by a passion for creating innovative and efficient applications. I recently finished an online course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
@@ -7,9 +7,9 @@ HTML/CSS
 Javascript
 React
 SQL
-Ruby
-C++
-Projects
+Ruby on Rails
+
+## Projects
 Here are a few of my most recent projects:
 
 Project 1:
