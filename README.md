@@ -13,13 +13,11 @@ Hi there! I'm a starting out full-stack software developer, driven by a passion 
 Here are a few of my most recent projects:
 
 Project 1:
-
-Description:
-Technologies used:
+* Description:
+* Technologies used:
 Project 2:
-
-Description:
-Technologies used:
+* Description:
+* Technologies used:
 
 ## Contact
 If you would like to collaborate or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections in the tech industry!
