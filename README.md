@@ -15,6 +15,7 @@ Here are a few of my most recent projects:
 Project 1:
 * Description:
 * Technologies used:
+
 Project 2:
 * Description:
 * Technologies used:
