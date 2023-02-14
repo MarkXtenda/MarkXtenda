@@ -2,17 +2,17 @@
 
 I'm a starting out full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished an online course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
-## Skills🌱
+## Skills 🌱
 * HTML/CSS
 * Javascript
 * React
 * SQL
 * Ruby on Rails
 
-## Portfolio🔭
+## Portfolio 🔭
 You can check my portfolio projects down bellow or out here: https://markxtenda.github.io/personal_website/
 
-## Projects🚧
+## Projects 🚧
 Here are a few of my most recent projects:
 
 Project 1 Personal website page:
@@ -35,7 +35,7 @@ Project 5 InstaClone:
 * Description: A clone of the popular social media platform Instagram.
 * Technologies used: HTML, CSS, React, Ruby on Rails
 
-## Contact📫
+## Contact 📫
 If you would like to collaborate or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections in the tech industry!
 
 
