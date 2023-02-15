@@ -10,7 +10,7 @@ I'm a starting out full-stack software engineer, driven by a passion for creatin
 * Ruby on Rails
 
 ## Portfolio 🔭
-You can check my portfolio projects down bellow or out here: https://markxtenda.github.io/personal_website/
+You can check my portfolio projects down bellow or out here: https://mark-kholodii.com/
 
 ## Projects 🚧
 Here are a few of my most recent projects:
