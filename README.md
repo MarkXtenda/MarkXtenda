@@ -19,19 +19,19 @@ Project 1 Personal website page:
 * Description: Personal portfolio website, showcasing my skills and projects.
 * Technologies used: HTML, CSS
 
-Project 2 Anime Search Webpage:
+Project 2 <a href="https://anime-search-by-mark.netlify.app/">Anime Search webpage:</a>
 * Description: Simple Anime Search webpage that allows users to search for and view information about various anime shows.
 * Technologies used: HTML, CSS, JavaScript
 
-Project 3 Giphy Clone:
+Project 3 <a href="https://giphy-clone-by-mark.netlify.app/">Giphy Clone:</a>
 * Description: A simple application that allows users to search and view various GIFs using Giphy.com API.
 * Technologies used: HTML, CSS, JavaScript, React
 
-Project 4 DogFacts CLI Application:
+Project 4 <a href="https://github.com/MarkXtenda/Dog-Facts">DogFacts CLI Application:</a>
 * Description: CLI Ruby application fetches 5 random dog facts from the DogFacts API and allows the user to save any of these facts as their favourites for later reading.
 * Technologies used: Ruby
 
-Project 5 InstaClone:
+Project 5 <a href="https://github.com/MarkXtenda/instagram-clone">InstaClone:</a>
 * Description: A clone of the popular social media platform Instagram.
 * Technologies used: HTML, CSS, React, Ruby on Rails
 
