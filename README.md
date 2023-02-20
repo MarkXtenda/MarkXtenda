@@ -15,7 +15,7 @@ You can check my portfolio projects down bellow or out here: https://mark-kholod
 ## Projects 🚧
 Here are a few of my most recent projects:
 
-Project 1 Personal website page:
+Project 1 <a href="https://mark-kholodii.com/">Personal website page:</a>
 * Description: Personal portfolio website, showcasing my skills and projects.
 * Technologies used: HTML, CSS
 
