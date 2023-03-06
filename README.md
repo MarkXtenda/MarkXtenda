@@ -4,6 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarkXtenda)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkXtenda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a starting out full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
