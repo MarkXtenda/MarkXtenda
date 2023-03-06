@@ -2,9 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=MarkXtenda)
 
 <img src="https://github-profile-trophy.vercel.app/?username=MarkXtenda"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkXtenda)]
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
-</div>
 
 I'm a starting out full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
@@ -41,6 +38,12 @@ Project 4 <a href="https://github.com/MarkXtenda/Dog-Facts">DogFacts CLI Applica
 Project 5 <a href="https://github.com/MarkXtenda/instagram-clone">InstaClone:</a>
 * Description: A clone of the popular social media platform Instagram.
 * Technologies used: HTML, CSS, React, Ruby on Rails
+
+## Stats
+<div style="display: flex; flex-flow: wrap; flex-direction: row; justify-content: space-around;">
+<img src="https://github-readme-stats.vercel.app/api?username=MarkXtenda"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
+</div>
 
 ## Contact 📫
 If you would like to collaborate or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections in the tech industry!
