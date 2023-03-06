@@ -5,6 +5,7 @@ I'm a starting out full-stack software engineer, driven by a passion for creatin
 ## Skills 🌱
 * HTML/CSS
 * Javascript
+* TypeScript
 * React
 * SQL
 * Ruby on Rails
