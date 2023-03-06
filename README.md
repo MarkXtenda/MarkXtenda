@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mark
 ![](https://komarev.com/ghpvc/?username=MarkXtenda)
 
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=MarkXtenda)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=MarkXtenda&repo=github-readme-stats"></img>
