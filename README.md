@@ -1,6 +1,9 @@
 # Hi 👋 I'm Mark
 ![](https://komarev.com/ghpvc/?username=MarkXtenda)
 
+![Your Statistic](https://github-readme-stats.vercel.app/api/followers?username=MarkXtenda&show_icons=true&theme=radical)
+![Your Statistic](https://github-readme-stats.vercel.app/api/contributions?username=MarkXtenda&show_icons=true&theme=radical)
+
 I'm a starting out full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
 ## Skills 🌱
