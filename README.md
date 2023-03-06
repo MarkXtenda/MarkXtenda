@@ -3,8 +3,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarkXtenda)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkXtenda&repo=github-readme-stats" />
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkXtenda&repo=github-readme-stats" />
+</a>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
 </div>
 
