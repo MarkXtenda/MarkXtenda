@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=MarkXtenda"/>
 
-I'm a starting out full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
+I'm a full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
 ## Skills 🌱
 * HTML/CSS
