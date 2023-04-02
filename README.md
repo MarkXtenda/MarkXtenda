@@ -6,7 +6,7 @@
 I'm a full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
 ## computer Tech Stack:
-[* HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 * TypeScript
 * React
