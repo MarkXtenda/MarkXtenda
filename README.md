@@ -44,25 +44,25 @@ You can check my portfolio projects down bellow or out here: https://mark-kholod
 ## Projects 🚧
 Here are a few of my most recent projects:
 
-Project 1 <a href="https://mark-kholodii.com/">Personal website page:</a>
+<a href="https://mark-kholodii.com/">Personal website page:</a>
 * Description: Personal portfolio website, showcasing my skills and projects.
 * Technologies used: HTML, CSS
 
-Project 2 <a href="https://anime-search-by-mark.netlify.app/">Anime Search webpage:</a>
-* Description: Simple Anime Search webpage that allows users to search for and view information about various anime shows.
-* Technologies used: HTML, CSS, JavaScript
+Project 4 <a href="https://github.com/MarkXtenda/peer-portal">Peer-Portal:</a>
+* Description: A chat application built using Ruby on Rails with the help of ActionCable, ActiveStorage, React, and Redux.
+* Technologies used:  HTML, CSS, React, Ruby on Rails, Redux
 
-Project 3 <a href="https://giphy-clone-by-mark.netlify.app/">Giphy Clone:</a>
+Project 3 <a href="https://github.com/MarkXtenda/instagram-clone">InstaClone:</a>
+* Description: A clone of the popular social media platform Instagram.
+* Technologies used: HTML, CSS, React, Ruby on Rails
+
+Project 2 <a href="https://giphy-clone-by-mark.netlify.app/">GifZone:</a>
 * Description: A simple application that allows users to search and view various GIFs using Giphy.com API.
 * Technologies used: HTML, CSS, JavaScript, React
 
-Project 4 <a href="https://github.com/MarkXtenda/Dog-Facts">DogFacts CLI Application:</a>
-* Description: CLI Ruby application fetches 5 random dog facts from the DogFacts API and allows the user to save any of these facts as their favourites for later reading.
-* Technologies used: Ruby
-
-Project 5 <a href="https://github.com/MarkXtenda/instagram-clone">InstaClone:</a>
-* Description: A clone of the popular social media platform Instagram.
-* Technologies used: HTML, CSS, React, Ruby on Rails
+Project 1 <a href="https://anime-search-by-mark.netlify.app/">Anime Search webpage:</a>
+* Description: Simple Anime Search webpage that allows users to search for and view information about various anime shows.
+* Technologies used: HTML, CSS, JavaScript
 
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-flow: wrap; flex-direction: row; justify-content: space-around;">
