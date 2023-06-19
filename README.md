@@ -64,12 +64,6 @@ Project 1 <a href="https://anime-search-by-mark.netlify.app/">Anime Search webpa
 * Description: Simple Anime Search webpage that allows users to search for and view information about various anime shows.
 * Technologies used: HTML, CSS, JavaScript
 
-## 📊 GitHub Stats:
-<div style="display: flex; flex-flow: wrap; flex-direction: row; justify-content: space-around;">
-<img src="https://github-readme-stats.vercel.app/api?username=MarkXtenda"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
-</div>
-
 ## Contact 📫
 If you would like to collaborate or have any questions, feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and connections in the tech industry!
 
