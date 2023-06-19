@@ -56,7 +56,7 @@ Project 3 <a href="https://github.com/MarkXtenda/instagram-clone">InstaClone:</a
 * Description: A clone of the popular social media platform Instagram.
 * Technologies used: HTML, CSS, React, Ruby on Rails
 
-Project 2 <a href="https://giphy-clone-by-mark.netlify.app/">GifZone:</a>
+Project 2 <a href="https://gifzone-by-mark.netlify.app/">GifZone:</a>
 * Description: A simple application that allows users to search and view various GIFs using Giphy.com API.
 * Technologies used: HTML, CSS, JavaScript, React
 
