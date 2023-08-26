@@ -1,11 +1,15 @@
 # Hi 👋 I'm Mark
 ![](https://komarev.com/ghpvc/?username=MarkXtenda)
 
-<img src="https://github-profile-trophy.vercel.app/?username=MarkXtenda"/>
-
 I'm a full-stack software engineer, driven by a passion for creating innovative and efficient applications. I recently finished a course in software development and am now focused on improving my skills through hands-on projects and real-world experience.
 
 ## 💻 Tech Stack:
+<div align="center">
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=MarkXtenda"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkXtenda&show_icons=true&theme=transparent&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkXtenda&layout=compact&langs_count=8"/>
+</div>
+
 ### Front-end
 <div class="front-end">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
